@@ -24,6 +24,7 @@ const SearchFeed = () => {
         sx={{
           color: "white",
         }}>
+        {" "}
         Search Results for:
         <span
           style={{
